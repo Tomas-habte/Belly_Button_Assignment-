@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(0deg, rgb(176, 176, 243), rgb(119, 151, 238) 40%, rgb(67, 54, 248));
+}
+.jumbotron {
+    background-image: url("image/bacteria.png");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
